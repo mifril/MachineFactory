@@ -1,0 +1,7 @@
+BodyStorageSize=10
+MotorStorageSize=10
+AccessoryStorageSize=50
+AutoStorageSize=10
+AccessorySuppliersNumber=5
+WorkersNumber=15
+DealersNumber=3
